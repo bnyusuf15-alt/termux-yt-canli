@@ -13,6 +13,12 @@ https://raw.githubusercontent.com/bnyusuf15-alt/termux-yt-canli/refs/heads/main/
 https://raw.githubusercontent.com/bnyusuf15-alt/termux-yt-canli/refs/heads/main/streams/a_haber.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Haberturk_TV_logo.png" group-title="Haber",Haber Turk
 https://raw.githubusercontent.com/bnyusuf15-alt/termux-yt-canli/refs/heads/main/streams/haber_turk.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Halk_TV_logo.png" group-title="Haber",Halk TV
+https://raw.githubusercontent.com/bnyusuf15-alt/termux-yt-canli/refs/heads/main/streams/halk_tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sozcu_TV_logo.png" group-title="Haber",Sozcu TV
+https://raw.githubusercontent.com/bnyusuf15-alt/termux-yt-canli/refs/heads/main/streams/sozcu_tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/TGRT_Haber_logo.png" group-title="Haber",TGRT Haber
+https://raw.githubusercontent.com/bnyusuf15-alt/termux-yt-canli/refs/heads/main/streams/tgrt_haber.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Flash_Haber_TV_logo.png" group-title="Haber",Flash Haber
 https://raw.githubusercontent.com/bnyusuf15-alt/termux-yt-canli/refs/heads/main/streams/flash_haber.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Haber_Global_logo.png" group-title="Haber",Haber Global
